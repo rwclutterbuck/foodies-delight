@@ -4,14 +4,14 @@
     padding: 0 4px;
   }
 
-.column {
+/* .column {
     flex: 100%;
     max-width: 100%;
-}
+} */
 
-.column img {
+/* .column img {
     vertical-align: middle;
-}
+} */
 
 .container {
     position: relative;
@@ -53,18 +53,19 @@
 }
 
 /* Tablet Styles */
-@media only screen and (min-width: 480px) {
+/*@media only screen and (min-width: 480px) {
     .column {
       flex: 50%;
       max-width: 50%;
     }
 }
- 
+*/
  
 /* Desktop Styles */
-@media only screen and (min-width: 1024px) {
+/*@media only screen and (min-width: 1024px) {
     .column {
       flex: 33.3%;
       max-width: 33.3%;
     }
-}
+} 
+*/
